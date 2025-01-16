@@ -1,0 +1,19 @@
+INDEX VERSION 1.134+C:\microservicei28copy\spring-microservices-v3-main\05.kubernetes\.metadata\.plugins\org.eclipse.jdt.core
+362613901.index
+3207402069.index
+4226585363.index
+1865797976.index
+907800575.index
+4211057363.index
+2594830896.index
+1871985630.index
+71182407.index
+2420630009.index
+2522618807.index
+3889603675.index
+938022342.index
+1477143674.index
+3187931168.index
+2348965232.index
+1860362137.index
+1759945954.index
